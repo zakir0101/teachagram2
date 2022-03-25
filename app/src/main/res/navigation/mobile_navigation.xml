@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_class">
+
+    <fragment
+        android:id="@+id/navigation_class"
+        android:name="com.example.teachagram.ui.main.MainFragment"
+        android:label="@string/title_class"
+        tools:layout="@layout/fragment_main" >
+        <action
+            android:id="@+id/to_navigation_class_info"
+            app:destination="@id/navigation_class_info"
+            app:enterAnim="@anim/fragment_close_enter"
+            app:popEnterAnim="@anim/fragment_close_enter"
+            app:exitAnim="@anim/fragment_close_exit"
+            app:popExitAnim="@anim/fragment_close_exit" />
+        <action
+            android:id="@+id/to_createClassFragment"
+            app:destination="@id/createClassFragment"
+            app:enterAnim="@anim/fragment_close_enter"
+            app:exitAnim="@anim/fragment_close_exit"
+            app:popEnterAnim="@anim/fragment_close_enter"
+            app:popExitAnim="@anim/fragment_close_exit" />
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_standard"
+        android:name="com.example.teachagram.ui.main.MainFragment"
+        android:label="@string/title_standard"
+        tools:layout="@layout/fragment_main" >
+
+        <action
+            android:id="@+id/to_navigation_create_unit"
+            app:destination="@id/navigation_create_unit"
+            app:enterAnim="@anim/fragment_close_enter"
+            app:exitAnim="@anim/fragment_close_exit"
+            app:popEnterAnim="@anim/fragment_close_enter"
+            app:popExitAnim="@anim/fragment_close_exit" />
+        <action
+            android:id="@+id/to_createStandardFragment"
+            app:destination="@id/createStandardFragment"
+            app:enterAnim="@anim/fragment_close_enter"
+            app:exitAnim="@anim/fragment_close_exit"
+            app:popEnterAnim="@anim/fragment_close_enter"
+            app:popExitAnim="@anim/fragment_close_exit" />
+    </fragment>
+    <fragment
+        android:id="@+id/navigation_create_unit"
+        android:name="com.example.teachagram.ui.createUnit.CreateUnitFragment"
+        android:label="fragment_standard_item_list"
+        tools:layout="@layout/fragment_create_unit" >
+
+        <action
+            android:id="@+id/to_navigation_create_objective"
+            app:destination="@id/navigation_create_objective"
+            app:enterAnim="@anim/fragment_close_enter"
+            app:exitAnim="@anim/fragment_close_exit"
+            app:popEnterAnim="@anim/fragment_close_enter"
+            app:popExitAnim="@anim/fragment_close_exit" />
+        <action
+            android:id="@+id/to_createUnitFragment"
+            app:destination="@id/createUnitFragment"
+            app:enterAnim="@anim/fragment_close_enter"
+            app:exitAnim="@anim/fragment_close_exit"
+            app:popEnterAnim="@anim/fragment_close_enter"
+            app:popExitAnim="@anim/fragment_close_exit" />
+    </fragment>
+    <fragment
+        android:id="@+id/navigation_create_objective"
+        android:name="com.example.teachagram.ui.createObjective.CreateObjectiveFragment"
+        android:label="fragment_standard2_item_list"
+        tools:layout="@layout/fragment_create_objective" >
+    #
+        <action
+            android:id="@+id/action_navigation_create_objective_to_createObjectiveFragment"
+            app:destination="@id/createObjectiveFragment"
+            app:enterAnim="@anim/fragment_close_enter"
+            app:exitAnim="@anim/fragment_close_exit"
+            app:popEnterAnim="@anim/fragment_close_enter"
+            app:popExitAnim="@anim/fragment_close_exit" />
+    </fragment>
+    <fragment
+        android:id="@+id/navigation_class_info"
+        android:name="com.example.teachagram.ui.classInfo.ClassInfoFragment"
+        android:label="fragment_class_info_itemlist"
+        tools:layout="@layout/fragment_class_info" >
+        <action
+            android:id="@+id/to_navigation_edit_unit"
+            app:destination="@id/navigation_edit_unit" />
+    </fragment>
+    <fragment
+        android:id="@+id/navigation_edit_unit"
+        android:name="com.example.teachagram.ui.editUnit.EditUnitFragment"
+        android:label="fragment_edit_unit"
+        tools:layout="@layout/fragment_edit_unit" >
+        <action
+            android:id="@+id/to_navigation_eidt_objective"
+            app:destination="@id/navigation_eidt_objective"
+            app:enterAnim="@anim/fragment_close_enter"
+            app:exitAnim="@anim/fragment_close_exit"
+            app:popEnterAnim="@anim/fragment_close_enter"
+            app:popExitAnim="@anim/fragment_close_exit" />
+    </fragment>
+    <fragment
+        android:id="@+id/navigation_eidt_objective"
+        android:name="com.example.teachagram.ui.editObjective.EditObjectiveFragment"
+        android:label="fragment_edit_objective"
+        tools:layout="@layout/fragment_edit_objective" />
+    <fragment
+        android:id="@+id/createStandardFragment"
+        android:name="com.example.teachagram.ui.create.AddStandardFragment"
+        android:label="create_standard"
+        tools:layout="@layout/create_standard" />
+    <fragment
+        android:id="@+id/createClassFragment"
+        android:name="com.example.teachagram.ui.create.AddClassFragment"
+        android:label="create_class"
+        tools:layout="@layout/create_class" />
+    <fragment
+        android:id="@+id/createObjectiveFragment"
+        android:name="com.example.teachagram.ui.create.AddObjectiveFragment"
+        android:label="create_objective"
+        tools:layout="@layout/create_objective" />
+    <fragment
+        android:id="@+id/createUnitFragment"
+        android:name="com.example.teachagram.ui.create.AddUnitFragment"
+        android:label="create_unit"
+        tools:layout="@layout/create_unit" />
+
+</navigation>

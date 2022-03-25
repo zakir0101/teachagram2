@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/drawable-anydpi/res1.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/drawable-anydpi/res2.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/drawable/check_24.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/drawable/checkgreen.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/drawable/functions.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/drawable/radius.xml" value="0.264" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/drawable/radius2.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/drawable/res1.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/drawable/standard_background.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/drawable/trash_24.xml" value="0.18055555555555555" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/font/ubuntu.xml" value="0.21458333333333332" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout-sw600dp/fragment_item_detail.xml" value="0.10348360655737705" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout-sw600dp/fragment_item_list.xml" value="0.1" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/activity_item_detail.xml" value="0.13768115942028986" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/activity_main2.xml" value="0.25" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/activity_main_.xml" value="0.14628623188405798" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/app_bar_3.xml" value="0.13768115942028986" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/app_bar_4.xml" value="0.13768115942028986" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/app_bar_main.xml" value="0.264" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/app_bar_main2.xml" value="0.264" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/create_class.xml" value="0.2" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/create_objective.xml" value="0.2" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/create_satandard.xml" value="0.13768115942028986" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/create_standard.xml" value="0.2" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/create_standard_item.xml" value="0.13768115942028986" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/create_unit.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/fragment_blank.xml" value="0.176" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/fragment_class_info.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/fragment_class_info_item.xml" value="0.264" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/fragment_class_info_itemlist.xml" value="0.2" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/fragment_class_info_list_item1.xml" value="0.264" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/fragment_class_info_list_item2.xml" value="0.13768115942028986" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/fragment_class_item.xml" value="0.4" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/fragment_class_item_list.xml" value="0.25" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/fragment_container.xml" value="0.13677536231884058" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/fragment_create_objectieve_list_item.xml" value="0.13768115942028986" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/fragment_create_objective.xml" value="0.264" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/fragment_create_unit.xml" value="0.2" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/fragment_create_unit_list_item.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/fragment_dashboard.xml" value="0.10009057971014493" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/fragment_edit_objective.xml" value="0.2" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/fragment_edit_objective_list_item.xml" value="0.264" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/fragment_edit_unit.xml" value="0.264" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/fragment_edit_unit_list_item.xml" value="0.264" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/fragment_home.xml" value="0.184375" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/fragment_item_detail.xml" value="0.13768115942028986" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/fragment_item_list.xml" value="0.13722826086956522" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/fragment_main.xml" value="0.13768115942028986" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/fragment_main_list_item.xml" value="0.264" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/fragment_standard2_item.xml" value="0.264" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/fragment_standard2_item_list.xml" value="0.4" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/fragment_standard_item.xml" value="0.2" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/fragment_standard_item_list.xml" value="0.264" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/item_list_content.xml" value="0.1" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/main.xml" value="0.1" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/popup1.xml" value="0.2" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/popup_standard.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/layout/popup_student.xml" value="0.152" />
+        <entry key="..\:/Users/Mamoun Elkheir/AndroidStudioProjects/Teachagram2/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
